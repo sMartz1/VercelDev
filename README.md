@@ -1,2 +1,2 @@
 # christmas-project
-React project for online store
+React project for online store.
